@@ -1,7 +1,7 @@
 class Foobar
 
   def do_it
-    "done"
+    x = 5
   end
 
 end
