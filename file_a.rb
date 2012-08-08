@@ -1,7 +1,7 @@
 class Monkey
 
   def banana
-    "yes please"
+    "yes, yes please"
   end
 
 end
